@@ -1,5 +1,5 @@
 # 🎮 Jokenpô - Jogo de Pedra, Papel e Tesoura
-<p>
+
 This is a project created as part of DevClub's challenges, bringing a personalized version of the classic game of Jokenpô (Rock, Paper and Scissors). In this project, I used HTML, CSS, and JavaScript technologies to create an interactive and visually engaging experience.
 
 ## 📌 Features
@@ -19,8 +19,6 @@ This is a project created as part of DevClub's challenges, bringing a personaliz
 3. Keep track of the score and try to beat the challenge!
 
 ## 🎨 Personalização
-- A interface foi inspirada nas lembranças do tempo de escola, com **background animado** que remet aos jogos de fliperama, para uma experiência imerciva e única.
-</p>
-<img src="./assets/Jokenpô1.jpg">
+- Ainterface foi inspirada nas lembranças dos tempos da escola,com**backgraund animado** que remete aos jogos de fliperama, para uma experiência imerciva e única.
 
-🌐 Deploy: [[link do deploy]( ?)]
+
