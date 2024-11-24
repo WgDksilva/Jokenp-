@@ -1,0 +1,82 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url("https://media1.tenor.com/m/7HFPLm7Rl8oAAAAd/321-count-down.gif");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    padding: 0 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+}
+
+.container {
+    margin-bottom: 340px;
+
+}
+
+.buttons {
+    margin: 5px 0 10px;
+    display: flex;
+    gap: 40px;
+}
+
+button {
+    padding: 10px;
+    font-size: 50px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition: opacity 0.5s ease-in-out;
+}
+
+button:hover {
+    opacity: 0.7;
+}
+
+#rock {
+    background-color: #a200ff;
+}
+
+#paper {
+    background-color: #9ee01a;
+}
+
+#scissors {
+    background-color: #7dbeed;
+}
+
+p {
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.human-score span {
+    color: rgb(235, 26, 224);
+}
+
+.machine-score span {
+    color: rgb(36, 80, 223);
+}
+
+#resetScore {
+   width: 70px;
+   height: 70px;
+   padding: 0;
+   opacity: 0.4;
+ }
