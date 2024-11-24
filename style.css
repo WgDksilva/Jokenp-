@@ -80,3 +80,18 @@ p {
    padding: 0;
    opacity: 0.4;
  }
+
+@media screen and (max-width: 412px){
+    .responsividade {
+        background: url("./assets/jogos1.jpg");
+        background-size: cover;
+    }
+       
+    .container {
+        margin-bottom: 535px ;
+    }
+
+    #resetScore {
+        opacity: 0.9;
+     }
+}

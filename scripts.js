@@ -16,17 +16,14 @@ document.getElementById('resetScore').addEventListener('click', () => {
 let humanScoreNumber = 0
 let machineScoreNumber = 0
 
-
 const playHuman = (HumanChoice) => {
 
     playTheGame(HumanChoice, playMachine())
-
 }
 
 const playMachine = () => {
     const choices = ['rock', 'paper', 'scissors']
     const randomNumber = Math.floor(Math.random() * 3)
-
 
     return choices[randomNumber]
 }
