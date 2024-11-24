@@ -21,4 +21,6 @@ This is a project created as part of DevClub's challenges, bringing a personaliz
 ## 🎨 Personalização
 -  The interface was inspired by memories of school days, with an **animated background** that refers to arcade games, for an immersive and unique experience.
 
+<img src="https://github.com/WgDksilva/Jokenpo/blob/main/assets/Github.jpg?raw=true">
 
+🌐 Deploy: [[link do deploy](https://wgdksilva.github.io/Jokenpo/)]
