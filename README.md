@@ -19,6 +19,6 @@ This is a project created as part of DevClub's challenges, bringing a personaliz
 3. Keep track of the score and try to beat the challenge!
 
 ## 🎨 Personalização
-- Ainterface foi inspirada nas lembranças dos tempos da escola,com**backgraund animado** que remete aos jogos de fliperama, para uma experiência imerciva e única.
+- A interface foi inspirada nas lembranças dos tempos da escola, com **backgraund animado** que remete aos jogos de fliperama, para uma experiência imerciva e única.
 
 
